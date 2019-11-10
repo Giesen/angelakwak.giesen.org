@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:Giesen/angelakwak.giesen.org.git
+	branch = master
