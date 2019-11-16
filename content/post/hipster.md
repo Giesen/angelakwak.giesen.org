@@ -2,6 +2,7 @@
 title: "Hipster"
 date: 2019-11-16T22:15:17+01:00
 draft: true
+featureImage: https://picsum.photos/1920/300
 categories:
   - hipster
 tags:
@@ -13,6 +14,8 @@ Lorem ipsum dolor amet poke neutra fam brunch humblebrag, prism blue bottle vapo
 Farm-to-table post-ironic viral, authentic vexillologist umami woke roof party kitsch disrupt typewriter DIY tofu. Meggings venmo readymade sartorial godard pickled freegan schlitz brooklyn. Ramps pinterest franzen, vice craft beer messenger bag artisan wayfarers squid. Freegan mlkshk artisan before they sold out art party kinfolk letterpress taxidermy tote bag flannel. Man braid pug aesthetic skateboard seitan cred four dollar toast franzen XOXO hoodie.
 
 Hella flexitarian keytar migas. Aesthetic scenester marfa ennui tote bag. Ugh ramps cloud bread cornhole deep v. 8-bit bitters +1 affogato asymmetrical wolf. Poutine coloring book chicharrones, health goth celiac tousled mustache. VHS flexitarian copper mug gluten-free hoodie squid tofu raclette, chillwave dreamcatcher vaporware XOXO mustache.
+
+![](https://picsum.photos/200/300)
 
 8-bit sustainable kale chips adaptogen coloring book tilde vice fanny pack glossier lyft. Narwhal +1 disrupt keytar tacos subway tile ugh skateboard palo santo kickstarter banh mi selfies. Brooklyn poke ennui, before they sold out pitchfork venmo man braid blog vape you probably haven't heard of them kickstarter gochujang. Pour-over hashtag af migas, vinyl normcore cray marfa green juice meditation hoodie iceland blue bottle heirloom gastropub. Biodiesel bitters try-hard, lyft pitchfork mlkshk chicharrones. Pour-over la croix austin craft beer kinfolk shaman, subway tile paleo mlkshk you probably haven't heard of them crucifix mixtape tilde hella locavore. +1 YOLO cronut, messenger bag pour-over cardigan echo park taiyaki.
 

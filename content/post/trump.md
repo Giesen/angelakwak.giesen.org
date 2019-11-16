@@ -2,6 +2,7 @@
 title: "Trump"
 date: 2019-11-16T22:13:49+01:00
 draft: true
+featureImage: https://picsum.photos/1920/300
 categories:
   -  Politics
 tags:

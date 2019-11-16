@@ -2,6 +2,7 @@
 title: "Bacon"
 date: 2019-11-16T22:17:23+01:00
 draft: true
+featureImage: https://picsum.photos/1920/400
 categories:
   -  Food
   - meat

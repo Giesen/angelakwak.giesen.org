@@ -1,5 +1,5 @@
 baseurl = "https://angelakwak.giesen.org"
-title = "The knoght bus to Second Life"
+title = "The knight bus to Second Life"
 author = "Angela Kwak"
 copyright = "Copyright © 2008–2019, Angela Kwak,k  all rights reserved."
 canonifyurls = true
@@ -12,12 +12,12 @@ pygmentsUseClasses=true
 #googleAnalytics = ""
 
 [params]
-author = "Angela Kwak"
-introDescription = "Lorem ipsum, this content must be replaced in config.toml"
+author = "Angela"
+introDescription = " intro text"
 contentSharing = "Feel free to share this content non commercially, Attribution-NonCommercial-ShareAlike"
 
 [social]
-# instagram = "realmattbutton"
-#linkedin = "matt-button-2225537"
-# twitter = "realmattbutton"
+# instagram = ""
+# linkedin = ""
+# twitter = ""
 
