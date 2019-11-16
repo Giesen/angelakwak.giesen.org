@@ -3,15 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://angelakwak.giesen.org/about/</loc>
+    <lastmod>2019-11-16T22:07:21+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://angelakwak.giesen.org/</loc>
+    <lastmod>2019-11-16T22:07:21+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://angelakwak.giesen.org/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://angelakwak.giesen.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://angelakwak.giesen.org/tags/</loc>
   </url>
   
 </urlset>

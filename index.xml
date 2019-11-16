@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>The knight bus to Second Life</title>
+    <link>https://angelakwak.giesen.org/</link>
+    <description>Recent content on The knight bus to Second Life</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <copyright>Copyright © 2008–2019, Angela Kwak,k  all rights reserved.</copyright>
+    <lastBuildDate>Sat, 16 Nov 2019 22:07:21 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angelakwak.giesen.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://angelakwak.giesen.org/about/</link>
+      <pubDate>Sat, 16 Nov 2019 22:07:21 +0100</pubDate>
+      
+      <guid>https://angelakwak.giesen.org/about/</guid>
+      <description>Lorem ipsum about angela Kwak SL.</description>
+    </item>
     
   </channel>
 </rss>
