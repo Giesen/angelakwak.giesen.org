@@ -12,6 +12,8 @@ tags:
 ---
 Uh, I think so. Yeah, it's 8:00. Mayor Goldie Wilson, I like the sound of that. Well maybe you are and you just don't know it yet. He laid out Biff in one punch. I never knew he had it in him. He never stood up to Biff in his life.
 
+![](https://picsum.photos/600)
+
 Ahh. Of course I do. Just a second, let's see if I could find it. Just turn around, McFly, and walk away. Are you deaf, McFly? Close the door and beat it. Doc, you gotta help- I guarantee it.
 
 Precisely. No, fine, no , good, fine, good. Oh. Yeah, exactly. Good evening, I'm Doctor Emmett Brown. I'm standing on the parking lot of Twin Pines Mall. It's Saturday morning, October 26, 1985, 1:18 a.m. and this is temporal experiment number one. C'mon, Einy, hey hey boy, get in there, that a boy, in you go, get down, that's it.

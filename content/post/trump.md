@@ -15,6 +15,9 @@ I’m the best thing that ever happened to placeholder text. Be careful, or I wi
 
 Does everybody know that pig named Lorem Ipsum? She's a disgusting pig, right? My placeholder text, I think, is going to end up being very good with women. I’m the best thing that ever happened to placeholder text. All of the words in Lorem Ipsum have flirted with me - consciously or unconsciously. That's to be expected. You could see there was text coming out of her eyes, text coming out of her wherever.
 
+
+![](https://picsum.photos/600)
+
 You have so many different things placeholder text has to be able to do, and I don't believe Lorem Ipsum has the stamina. My text is long and beautiful, as, it has been well documented, are various other parts of my website. The concept of Lorem Ipsum was created by and for the Chinese in order to make U.S. design jobs non-competitive.
 
 If Trump Ipsum weren’t my own words, perhaps I’d be dating it. I think my strongest asset maybe by far is my temperament. I have a placeholding temperament. That other text? Sadly, it’s no longer a 10. I think the only difference between me and the other placeholder text is that I’m more honest and my words are more beautiful.
