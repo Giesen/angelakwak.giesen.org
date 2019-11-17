@@ -1,7 +1,7 @@
 baseurl = "https://angelakwak.giesen.org/"
-title = "Taking the knight bus to Second Life"
+title = "Taking the knight bus to SL"
 author = "Angela Kwak"
-copyright = "Copyright © 2008–2019, Angela Kwak,k  all rights reserved."
+copyright = "Copyright © 2008–2019, Angela Kwak, all rights reserved."
 canonifyurls = true
 paginate = 3
 theme = "silhouette-hugo"
