@@ -13,6 +13,15 @@ First in the bash shell move to the project directory. Most of the command work 
 cd ~/Projects/angelakwak.giesen.org <ENTER>
 ```
 
+## Get the latest changes from github
+
+e.g. because my husband fixed a few things.
+This will get the latest changes locally.
+
+```
+git pull <ENTER>
+```
+
 ## Create a new post locally
 
 ```bash
