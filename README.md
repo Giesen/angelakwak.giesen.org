@@ -89,7 +89,7 @@ vimtutor <ENTER>
 
 * [Vim Tutorial for Beginners: Learn the Vim Editor in 5 minutes](https://www.youtube.com/watch?v=PN-r83wYMug)
 * [How to use vim](https://www.youtube.com/watch?v=g-XsXEsd6xA)
-* [The vim tutorial, Basic commands](The Vim Tutorial - Part One - Basic Commands) *Part one of a series*
+* [The vim tutorial, Basic commands](https://www.youtube.com/watch?v=ER5JYFKkYDg)
 
 
 
