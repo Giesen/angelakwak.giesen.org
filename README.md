@@ -78,7 +78,7 @@ vimtutor <ENTER>
 
 * [Hugo blogging tool](https://gohugo.io/)
 * [Git official Documentation](https://git-scm.com/docs) *Everything but a bit advanced. There is a book and there are videos*
-  * [Git basics, what isversion control, the video](https://git-scm.com/video/what-is-version-control) 
+  * [Git basics, what is version control, the video](https://git-scm.com/video/what-is-version-control) 
 * [Oh Shit, Git!?!](https://ohshitgit.com/) *For if you screwed up. But a bit advanced*
 * [git cheat sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 * [Vim basics](https://www.howtoforge.com/vim-basics) 
