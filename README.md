@@ -10,13 +10,13 @@
 First in the bash shell move to the project directory. Most of the command work from within this directory.
 
 ```bash
-cd ~/Projects/angelakwak.giesen.org
+cd ~/Projects/angelakwak.giesen.org <ENTER>
 ```
 
 ## Create a new post locally
 
 ```bash
-hugo new post/my_greatest_new_post.md
+hugo new post/my_greatest_new_post.md <ENTER>
 ```
 
 
@@ -24,7 +24,7 @@ hugo new post/my_greatest_new_post.md
 
 
 ```bash
-vim content/post/my_greatest_new_post.md
+vim content/post/my_greatest_new_post.md <ENTER>
 ```
 Do not forget to set `draft:false` or remove that line altogether if you want to publish the new post.
 
